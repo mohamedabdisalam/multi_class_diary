@@ -1,0 +1,5 @@
+[
+  "tests/test_diary.py::test_diary_initialises",
+  "tests/test_diary.py::test_give_a_chunk_of_text_that_we_can_read",
+  "tests/test_diary.py::test_time_to_read_diary"
+]

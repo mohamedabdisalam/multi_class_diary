@@ -61,7 +61,14 @@ class Diary:
         pass # No code here yet
 
 
-    def reading_time(self, wpm, minutes):
+    def reading_time(self, wpm):
+        # Parameters:
+        #   wpm: integer
+        # Returns:
+        #   Time to read diary
+        pass # No code here yet
+
+    def find_best_entry_for_reading_time(self, wpm, minutes):
         # Parameters:
         #   wpm: integer
         #   minutes: integer
@@ -115,5 +122,10 @@ class TodoList():
         pass # No code here yet
 
 ## 3. Create Examples as Integration Tests
+
+"""
+
+"""
+
 
 ## 4. Create Examples as Unit Tests
